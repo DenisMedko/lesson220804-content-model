@@ -1,0 +1,33 @@
+div {
+    /*padding: 0;
+    margin: 0;*/
+}
+.hidden-1 {
+    display: none;
+}
+.hidden-2 {
+    opacity: 0;
+}
+.hidden-3 {
+    visibility: hidden;
+}
+.desk {
+    display: inline-block;
+    box-sizing: border-box;
+    border: 1px solid;
+    width: 800px;
+    height: 800px;
+    font-size: 0;
+}
+.cell {
+    background: black;
+    display: inline-block;
+    width: 12.5%;
+    height: 12.5%;
+    /*font-size: 30px;*/
+}
+.cell-white {
+    /* background: white; */
+    opacity: 0;
+    /*visibility: hidden;*/
+}
